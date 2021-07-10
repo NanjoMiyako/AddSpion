@@ -1,0 +1,7 @@
+GroupID,0515512
+MailTypeID,52152
+MailTypeName,AddSpion
+SenderAddress, SenderAddress@gmail.com
+ToAddress, ToAddress1@gmail.com,ToAddress2@gmail.com
+MailAppPassWord,#MailAppPathWord
+
